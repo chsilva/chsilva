@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-[![chsilva gitHub stats](https://github-readme-stats.vercel.app/api?username=chsilva&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔧 I’m currently working at [KaBuM!](https://github.com/kabum) as Technical Lead
+- 📚 I’m currently learning [rescript](https://rescript-lang.org/)
+- 📸 Fun fact: Besides being a programmer I also like to take pictures out there, feel free to see some on my [unsplash](https://unsplash.com/@caiohenriquesilva)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/caiohenriquesilva)
 
 <!--
 **chsilva/chsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
