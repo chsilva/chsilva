@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 
-- 🔧 I’m currently working at [Origin](https://useorigin.com/) as Software Engineer
-- 📚 I’m currently learning [rescript](https://rescript-lang.org/)
-- 📸 Fun fact: Besides being a programmer I also like to take pictures out there, feel free to see some of them on my [unsplash](https://unsplash.com/@caiohenriquesilva)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/caiohenriquesilva)
 
 <!--
 **chsilva/chsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
